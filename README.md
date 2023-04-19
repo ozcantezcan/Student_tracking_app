@@ -1,4 +1,4 @@
-# flutter_1
+# Student Tracking App
 
 A new Flutter project.
 
